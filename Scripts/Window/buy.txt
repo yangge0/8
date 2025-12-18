@@ -1,0 +1,13 @@
+{Item_HomeFood,50,135,66}
+{Item_Wood,52,63,54}
+{Item_HardWood,52,63,54}
+{Item_ParasolWood,72,75,75}
+{Item_LingWood,50,51,50}
+{Item_Shit,107,130,120}
+{Item_Pear,140,141,140}
+{Item_PreservedFruit,141,168,163}
+{Item_Fruit,167,177,177}
+{Item_Lotusroot,94,176,95}
+{Item_Mushroom,51,188,89}
+{Item_Ginkgo,91,138,124}
+{Item_Wheat,119,193,174}

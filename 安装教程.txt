@@ -1,0 +1,14 @@
+
+
+先找到wegame/steam的文件储存位置按照以下寻找！（可能会不一样）
+
+\WeGame\rail_apps\Amazing Cultivation Simulator\Mods
+Steam\steamapps\common\AmazingCultivationSimulator\Mods\
+
+把（通天商会）放在Mods文件里面就可以了！！！
+
+     *******************
+     *（枫纹墨客）出品 *
+     *******************
+
+后序更新，请关注我的B站动态up名：枫纹墨客
